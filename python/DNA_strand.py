@@ -4,5 +4,5 @@ def dna_strand(dna):
 
 
 
-print(dna_strand('ATCG'))
+
 

@@ -6,3 +6,5 @@ quote = "How can mirrors be real if our eyes aren't real"
 
 
 print(to_jaden_case(quote))
+teste = "rio de janeiro"
+print(to_jaden_case(teste))
