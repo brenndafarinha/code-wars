@@ -9,7 +9,7 @@ pycairo==1.16.2
 pycups==1.9.73
 pygobject==3.28.2
 pysmbc==1.0.15.6
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.18.4
 six==1.11.0
 urllib3==1.22
